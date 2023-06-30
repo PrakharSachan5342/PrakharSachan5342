@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my startup hypeUp traderX**
 - 🌱 I’m currently learning **AIML**
-- 💬 Ask me about **nft's , crypto , aiml , blokchain , web3 , azure**
+- 💬 Ask me about **nft's , crypto , stocks ,  aiml , blokchain , web3 , azure**
 - 📫 How to reach me **prakharsachan61@gmail.com**
 
 -------------------------------------------------------------------------------------

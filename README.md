@@ -5,7 +5,7 @@
 -------------------------------------------------------------------------------------
 
 - 🔭 I’m currently working on **my startup hypeUp traderX**
-- 🌱 I’m currently learning **Blockchain Development **
+- 🌱 I’m currently learning Blockchain Development 
 - 💬 Ask me about **nft's , crypto , stocks , blokchain , web3 , azure , ui/ux**
 - 📫 How to reach me **prakharsachan61@gmail.com**
 

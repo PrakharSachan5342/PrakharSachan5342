@@ -1,3 +1,7 @@
+![](https://github.com/ianshulx/ianshulx/blob/main/header.gif)
+
+
+
 <h1 align="center">Hi 👋, I'm Prakhar Sachan</h1>
 
 # 💫 About Me:
